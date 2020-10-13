@@ -1,2 +1,4 @@
 # qadri
-nokian900
+Python
+Bitcoim
+AI
